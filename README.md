@@ -1,5 +1,18 @@
 # Speech Gateway API Tester
 
+## QA ownership and AI-generated implementation
+
+This portfolio reflects my QA work, business-workflow context, test-scope direction,
+execution and review of results against requirements. I guided the automation
+approach and used AI tools to generate the code implementation; I did not
+independently write the Python code or implement the framework from scratch.
+
+The code is evidence of an AI-assisted QA workflow, not a claim of independently
+assessed Python programming or software-engineering proficiency. Scenario proposals,
+technical analysis and documentation also used AI assistance. Only the executed
+checks and documented evidence support the stated validation scope.
+
+
 Sanitized desktop QA utility based on professional speech-gateway testing work. Python/Tkinter UI, cookie-based session authentication, multipart audio upload, response inspection and bounded repeated requests. QA workflow direction and outcome review were owned by the author; implementation used AI assistance.
 
 ## Features
